@@ -1,0 +1,29 @@
+﻿father+cat+cut+thought+bed+bird+bit+beet 파더 / 캣 / 컷 / 쏫 / 베드 / 버드 / 빗 / 비트
+book+boot+day+go+my+now+boy+ago 북 / 부트 / 데이 / 고 / 마이 / 나우 / 보이 / 어고
+_+pie+_+buy+_+tie+_+die+_+kite+_+guy+_+fine+_+vine+_ 쉼 / 파이 / 쉼 / 바이 / 쉼 / 타이 / 쉼 / 다이 / 쉼 / 카이트 / 쉼 / 가이 / 쉼 / 파인 / 쉼 / 바인 / 쉼
+_+theft+_+they+_+say+_+zed+_+she+_+ha+_+cheese+_+jeep+_ 쉼 / 데프트 / 쉼 / 데이 / 쉼 / 세이 / 쉼 / 제드 / 쉼 / 쉬 / 쉼 / 하 / 쉼 / 치즈 / 쉼 / 지프 / 쉼
+_+mow+_+neigh+_+lay+_+ray+_+woe+_+yes+_ 쉼 / 모우 / 쉼 / 네이 / 쉼 / 레이 / 쉼 / 레이(r) / 쉼 / 워우 / 쉼 / 예스 / 쉼
+pie+buy+tie+die+kite 파이 / 바이 / 타이 / 다이 / 카이트
+guy+fine+vine+theft+they 가이 / 파인 / 바인 / 데프트 / 데이
+say+zed+she+ha 세이 / 제드 / 쉬 / 하
+cheese+jeep+mow+neigh 치즈 / 지프 / 모우 / 네이
+lay+ray+woe+yes 레이 / 레이(r) / 워우 / 예스
+xt+xd+xn+xr 어(약)-트 / 어(약)-드 / 어(약)-느 / 어(약)-러(r)
+xl+xs+xz+it 어(약)-러(l) / 어(약)-스 / 어(약)-즈 / 이(짧게)-트
+id+in+is+iz 이(짧게)-드 / 이(짧게)-느 / 이(짧게)-스 / 이(짧게)-즈
+il+et+ed+en 이(짧게)-러(l) / 에-트 / 에-드 / 에-느
+er+el+@t+@d 에-러(r) / 에-러(l) / 애-트 / 애-드
+@n+@r+@l+ut 애-느 / 애-러(r) / 애-러(l) / 어-트
+ud+un+ur+ul 어-드 / 어-느 / 어-러(r) / 어-러(l)
+us+Et+Ed+En 어-스 / 이-트 / 이-드 / 이-느
+Ez+at+add+an 이-즈 / 아-트 / 애드 / 아-느
+ar+9t+9d+9n 아-러(r) / 오(열림)-트 / 오(열림)-드 / 오(열림)-느
+9r+6t+6n+6l 오(열림)-러(r) / 우(짧게)-트 / 우(짧게)-느 / 우(짧게)-러(l)
+ot+on+or+3t 우-트 / 우-느 / 우-러(r) / 얼-트
+3d+3n+3r+3l 얼-드 / 얼-느 / 얼-러(r) / 얼-러(l)
+spoke+stay+scope+smoke+snail+slay+swo+pro 스포크 / 스테이 / 스코프 / 스모크 / 스네일 / 슬레이 / 스워 / 프로
+bro+tray+dre+crow+grow+fro+play+ble 브로 / 트레이 / 드레이 / 크로우 / 그로우 / 프로(f) / 플레이 / 블레
+clay+gle+flay+two+dwo+quote+gwo+stray 클레이 / 글레 / 플레이(f) / 투 / 드워 / 쿠오트 / 그워 / 스트레이
+ant+and+ans+ank+angk+amp+apt+act 앤트 / 앤드 / 아-느-스 / 아-느-크 / 아-응-크 / 앰프 / 앱트 / 액트
+aft+asp+ast+ask+ald+alt+alp+alk 아-프-트 / 아-스-프 / 아-스-트 / 애스크 / 아-러(l)-드 / 아-러(l)-트 / 아-러(l)-프 / 아-러(l)-크
+alf+alm+aln+als 아-러(l)-프 / 아-러(l)-므 / 아-러(l)-느 / 아-러(l)-스

@@ -1,0 +1,44 @@
+﻿# English C+Bridge MIN profile (GA target)
+# Separator: + (no spaces)
+# Notation: Cz's VCCV (ULR)
+
+# 1) V only
+a+@+u+9+e+3+i+E
+6+o+A+O+I+8+Q+x
+
+# 2) -C (head consonant, mixed carrier by articulation)
+_+po+_+bo+_+te+_+de+_+ko+_+go+_+fo+_+vo+_
+_+the+_+dhe+_+se+_+ze+_+shi+_+ha+_+chi+_+ji+_
+_+mo+_+ne+_+le+_+re+_+wo+_+yi+_
+
+# 3) C medial helper (mixed carrier, extraction-friendly)
+po+bo+te+de+ko
+go+fo+vo+the+dhe
+se+ze+shi+ha
+chi+ji+mo+ne
+le+re+wo+yi
+
+# 4) VC anchors
+xt+xd+xn+xr
+xl+xs+xz+it
+id+in+is+iz
+il+et+ed+en
+er+el+@t+@d
+@n+@r+@l+ut
+ud+un+ur+ul
+us+Et+Ed+En
+Ez+at+ad+an
+ar+9t+9d+9n
+9r+6t+6n+6l
+ot+on+or+3t
+3d+3n+3r+3l
+
+# 5) CC onset
+spo+ste+sko+smo+sne+sle+swo+pro
+bro+tre+dre+kro+gro+fro+ple+ble
+kle+gle+fle+two+dwo+kwo+gwo+stre
+
+# 6) CC coda
+ant+and+ans+ank+angk+amp+apt+akt
+aft+asp+ast+ask+ald+alt+alp+alk
+alf+alm+aln+als

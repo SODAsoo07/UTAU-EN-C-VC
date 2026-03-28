@@ -1,0 +1,45 @@
+# English C+Bridge MIN profile (word-cue edition)
+# Separator: + (no spaces)
+# Notation base: Cz's VCCV (ULR)
+# Rule: replaced with real words where reliable; unresolved items stay symbolic.
+
+# 1) V only
+father+cat+cut+thought+bed+bird+bit+beet
+book+boot+day+go+my+now+boy+ago
+
+# 2) -C (head consonant cues)
+_+pie+_+buy+_+tie+_+die+_+kite+_+guy+_+fine+_+vine+_
+_+theft+_+they+_+say+_+zed+_+she+_+ha+_+cheese+_+jeep+_
+_+mow+_+neigh+_+lay+_+ray+_+woe+_+yes+_
+
+# 3) C medial helper (word cues)
+pie+buy+tie+die+kite
+guy+fine+vine+theft+they
+say+zed+she+ha
+cheese+jeep+mow+neigh
+lay+ray+woe+yes
+
+# 4) VC anchors
+xt+xd+xn+xr
+xl+xs+xz+it
+id+in+is+iz
+il+et+ed+en
+er+el+@t+@d
+@n+@r+@l+ut
+ud+un+ur+ul
+us+Et+Ed+En
+Ez+at+add+an
+ar+9t+9d+9n
+9r+6t+6n+6l
+ot+on+or+3t
+3d+3n+3r+3l
+
+# 5) CC onset
+spoke+stay+scope+smoke+snail+slay+swo+pro
+bro+tray+dre+crow+grow+fro+play+ble
+clay+gle+flay+two+dwo+quote+gwo+stray
+
+# 6) CC coda
+ant+and+ans+ank+angk+amp+apt+act
+aft+asp+ast+ask+ald+alt+alp+alk
+alf+alm+aln+als

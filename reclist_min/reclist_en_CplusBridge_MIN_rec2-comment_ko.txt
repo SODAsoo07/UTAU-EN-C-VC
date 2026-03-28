@@ -1,0 +1,29 @@
+﻿a+@+u+9+e+3+i+E 아/애/어/오(열린)/에/어r/이(짧게)/이 [팁: 3/r계열=혀를 뒤로 당겨 공명]
+6+o+A+O+I+8+Q+x 우(짧게)/우/에이/오우/아이/아우/오이/어(약) [팁: x=강세 약한 schwa(어)]
+_+po+_+bo+_+te+_+de+_+ko+_+go+_+fo+_+vo+_ 쉼/포/쉼/보/쉼/테/쉼/데/쉼/코/쉼/고/쉼/포(f)/쉼/보(v)/쉼
+_+the+_+dhe+_+se+_+ze+_+shi+_+ha+_+chi+_+ji+_ 쉼/데(th)/쉼/데(dh)/쉼/세/쉼/제/쉼/시/쉼/하/쉼/치/쉼/지/쉼
+_+mo+_+ne+_+le+_+re+_+wo+_+yi+_ 쉼/모/쉼/네/쉼/러(l)/쉼/러(r)/쉼/워/쉼/이(y)/쉼
+po+bo+te+de+ko 포/보/테/데/코
+go+fo+vo+the+dhe 고/포(f)/보(v)/데(th)/데(dh)
+se+ze+shi+ha 세/제/시/하
+chi+ji+mo+ne 치/지/모/네
+le+re+wo+yi 러(l)/러(r)/워/이(y)
+xt+xd+xn+xr 어(약)t/어(약)d/어(약)n/어(약)r [팁: x=강세 약한 schwa(어)]
+xl+xs+xz+it 어(약)l/어(약)s/어(약)z/이(짧게)t [팁: x=강세 약한 schwa(어)]
+id+in+is+iz 이(짧게)d/이(짧게)n/이(짧게)s/이(짧게)z
+il+et+ed+en 이(짧게)l/에t/에d/에n
+er+el+@t+@d 에r/에l/애t/애d
+@n+@r+@l+ut 애n/애r/애l/어t
+ud+un+ur+ul 어d/어n/어r/어l
+us+Et+Ed+En 어s/이t/이d/이n
+Ez+at+ad+an 이z/아t/아d/아n
+ar+9t+9d+9n 아r/오(열린)t/오(열린)d/오(열린)n
+9r+6t+6n+6l 오(열린)r/우(짧게)t/우(짧게)n/우(짧게)l
+ot+on+or+3t 우t/우n/우r/어rt [팁: 3/r계열=혀를 뒤로 당겨 공명]
+3d+3n+3r+3l 어rd/어rn/어rr/어rl [팁: 3/r계열=혀를 뒤로 당겨 공명]
+spo+ste+sko+smo+sne+sle+swo+pro 스포/스테/스코/스모/스네/슬레/스워/프로
+bro+tre+dre+kro+gro+fro+ple+ble 브로/트레/드레/크로/그로/프로(f)/플레/블레
+kle+gle+fle+two+dwo+kwo+gwo+stre 클레/글레/플레(f)/투오(tw)/드워(dw)/쿠오(kw)/구오(gw)/스트레
+ant+and+ans+ank+angk+amp+apt+akt 아nt/아nd/아ns/아nk/아ngk/아mp/아pt/아kt [팁: ng=받침 ㅇ 코울림]
+aft+asp+ast+ask+ald+alt+alp+alk 아ft/아sp/아st/아sk/아ld/아lt/아lp/아lk
+alf+alm+aln+als 아lf/아lm/아ln/아ls

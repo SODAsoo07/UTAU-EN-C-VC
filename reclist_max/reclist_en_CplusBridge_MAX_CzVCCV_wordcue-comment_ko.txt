@@ -1,0 +1,46 @@
+﻿father+cat+cut+ago+thought+bed+bird+bit 파더 / 캣 / 컷 / 어고 / 쏫 / 베드 / 버드 / 빗
+beet+book+boot+day+go+my+now+boy 비트 / 북 / 부트 / 데이 / 고 / 마이 / 나우 / 보이
+butter+ear+air+tour 버터 / 이어 / 에어 / 투어
+_+pie+_+buy+_+tie+_+die+_+kite+_+guy+_+fine+_+vine+_ 쉼 / 파이 / 쉼 / 바이 / 쉼 / 타이 / 쉼 / 다이 / 쉼 / 카이트 / 쉼 / 가이 / 쉼 / 파인 / 쉼 / 바인 / 쉼
+_+theft+_+they+_+say+_+zed+_+she+_+vision+_+ha+_+cheese+_ 쉼 / 데프트 / 쉼 / 데이 / 쉼 / 세이 / 쉼 / 제드 / 쉼 / 쉬 / 쉼 / 비전 / 쉼 / 하 / 쉼 / 치즈 / 쉼
+_+jeep+_+mow+_+neigh+_+sing+_+lay+_+ray+_+woe+_+yes+_ 쉼 / 지프 / 쉼 / 모우 / 쉼 / 네이 / 쉼 / 싱 / 쉼 / 레이 / 쉼 / 레이(r) / 쉼 / 워우 / 쉼 / 예스 / 쉼
+pie+buy+tie+die+kite 파이 / 바이 / 타이 / 다이 / 카이트
+guy+fine+vine+theft+they 가이 / 파인 / 바인 / 데프트 / 데이
+say+zed+she+vision+ha 세이 / 제드 / 쉬 / 비전 / 하
+cheese+jeep+mow+neigh+sing 치즈 / 지프 / 모우 / 네이 / 싱
+lay+ray+woe+yes 레이 / 레이(r) / 워우 / 예스
+at+add+ak+ag+an+am+as+az 아-트 / 애드 / 아-크 / 아-그 / 아-느 / 아-므 / 아-스 / 아-즈
+ash+ar+al+ang+@t+@d+@k+@g 아-쉬 / 아-러(r) / 아-러(l) / 아-응 / 애-트 / 애-드 / 애-크 / 애-그
+@n+@m+@s+@z+@sh+@r+@l+@ng 애-느 / 애-므 / 애-스 / 애-즈 / 애-쉬 / 애-러(r) / 애-러(l) / 애-응
+ut+ud+uk+ug+un+um+us+uz 어-트 / 어-드 / 어-크 / 어-그 / 어-느 / 어-므 / 어-스 / 어-즈
+ush+ur+ul+ung+xt+xd+xk+xg 어-쉬 / 어-러(r) / 어-러(l) / 어-응 / 어(약)-트 / 어(약)-드 / 어(약)-크 / 어(약)-그
+xn+xm+xs+xz+xsh+xr+xl+xng 어(약)-느 / 어(약)-므 / 어(약)-스 / 어(약)-즈 / 어(약)-쉬 / 어(약)-러(r) / 어(약)-러(l) / 어(약)-응
+9t+9d+9k+9g+9n+9m+9s+9z 오(열림)-트 / 오(열림)-드 / 오(열림)-크 / 오(열림)-그 / 오(열림)-느 / 오(열림)-므 / 오(열림)-스 / 오(열림)-즈
+9sh+9r+9l+9ng+et+ed+ek+eg 오(열림)-쉬 / 오(열림)-러(r) / 오(열림)-러(l) / 오(열림)-응 / 에-트 / 에-드 / 에-크 / 에-그
+en+em+es+ez+esh+er+el+eng 에-느 / 에-므 / 에-스 / 에-즈 / 에-쉬 / 에-러(r) / 에-러(l) / 에-응
+3t+3d+3k+3g+3n+3m+3s+3z 얼-트 / 얼-드 / 얼-크 / 얼-그 / 얼-느 / 얼-므 / 얼-스 / 얼-즈
+3sh+3r+3l+3ng+it+id+ik+ig 얼-쉬 / 얼-러(r) / 얼-러(l) / 얼-응 / 이(짧게)-트 / 이(짧게)-드 / 이(짧게)-크 / 이(짧게)-그
+in+im+is+iz+ish+ir+il+ing 이(짧게)-느 / 이(짧게)-므 / 이(짧게)-스 / 이(짧게)-즈 / 이(짧게)-쉬 / 이(짧게)-러(r) / 이(짧게)-러(l) / 이(짧게)-응
+Et+Ed+Ek+Eg+En+Em+Es+Ez 이-트 / 이-드 / 이-크 / 이-그 / 이-느 / 이-므 / 이-스 / 이-즈
+Esh+Er+El+Eng+6t+6d+6k+6g 이-쉬 / 이-러(r) / 이-러(l) / 이-응 / 우(짧게)-트 / 우(짧게)-드 / 우(짧게)-크 / 우(짧게)-그
+6n+6m+6s+6z+6sh+6r+6l+6ng 우(짧게)-느 / 우(짧게)-므 / 우(짧게)-스 / 우(짧게)-즈 / 우(짧게)-쉬 / 우(짧게)-러(r) / 우(짧게)-러(l) / 우(짧게)-응
+ot+od+ok+og+on+om+os+oz 우-트 / 우-드 / 우-크 / 우-그 / 우-느 / 우-므 / 우-스 / 우-즈
+osh+or+ol+ong+At+Ad+Ak+Ag 우-쉬 / 우-러(r) / 우-러(l) / 우-응 / 에이-트 / 에이-드 / 에이-크 / 에이-그
+An+Am+As+Az+Ash+Ar+Al+Ang 에이-느 / 에이-므 / 에이-스 / 에이-즈 / 에이-쉬 / 에이-러(r) / 에이-러(l) / 에이-응
+Ot+Od+Ok+Og+On+Om+Os+Oz 오우-트 / 오우-드 / 오우-크 / 오우-그 / 오우-느 / 오우-므 / 오우-스 / 오우-즈
+Osh+Or+Ol+Ong+It+Id+Ik+Ig 오우-쉬 / 오우-러(r) / 오우-러(l) / 오우-응 / 아이-트 / 아이-드 / 아이-크 / 아이-그
+In+Im+Is+Iz+Ish+Ir+Il+Ing 아이-느 / 아이-므 / 아이-스 / 아이-즈 / 아이-쉬 / 아이-러(r) / 아이-러(l) / 아이-응
+8t+8d+8k+8g+8n+8m+8s+8z 아우-트 / 아우-드 / 아우-크 / 아우-그 / 아우-느 / 아우-므 / 아우-스 / 아우-즈
+8sh+8r+8l+8ng+Qt+Qd+Qk+Qg 아우-쉬 / 아우-러(r) / 아우-러(l) / 아우-응 / 오이-트 / 오이-드 / 오이-크 / 오이-그
+Qn+Qm+Qs+Qz+Qsh+Qr+Ql+Qng 오이-느 / 오이-므 / 오이-스 / 오이-즈 / 오이-쉬 / 오이-러(r) / 오이-러(l) / 오이-응
+spoke+stay+scope+smoke+snail+slay+swo+pro 스포크 / 스테이 / 스코프 / 스모크 / 스네일 / 슬레이 / 스워 / 프로
+bro+tray+dre+crow+grow+fro+vro+three 브로 / 트레이 / 드레이 / 크로우 / 그로우 / 프로(f) / 브-러(r)-우 / 쓰리
+shred+play+ble+clay+gle+flay+two+dwo 쉬레드 / 플레이 / 블레 / 클레이 / 글레 / 플레이(f) / 투 / 드워
+quote+gwo+pea+bee+key+ghee+fyi+vie 쿠오트 / 그워 / 피 / 비 / 키 / 기 / 에프와이아이 / 바이(v)
+me+knee+ye+lyi+ryi+wyi+stray+spro 미 / 니 / 예 / 러(l)-이(y)-이(짧게) / 러(r)-이(y)-이(짧게) / 워-이(y)-이(짧게) / 스트레이 / 스-프-러(r)-우
+scroll+splay+skwo+sthre+sre 스크롤 / 스플레이 / 스-크-워-우 / 스-드(th)-러(r)-에 / 스-러(r)-에
+ant+and+ans+anz+ank+angk+amp+amf 앤트 / 앤드 / 아-느-스 / 아-느-즈 / 아-느-크 / 아-응-크 / 앰프 / 아-므-프
+ams+amz+apt+apd+aps+akt+akd+aks 아-므-스 / 아-므-즈 / 앱트 / 아-프-드 / 아-프-스 / 아-크-트 / 아-크-드 / 아-크-스
+aft+afs+asp+ast+ask+ald+alt+alf 아-프-트 / 아-프-스 / 아-스-프 / 아-스-트 / 애스크 / 아-러(l)-드 / 아-러(l)-트 / 아-러(l)-프
+alv+alm+aln+alp+als+alz+art+ard 아-러(l)-브 / 아-러(l)-므 / 아-러(l)-느 / 아-러(l)-프 / 아-러(l)-스 / 아-러(l)-즈 / 아-러(r)-트 / 아-러(r)-드
+ark+arm+arn+arp+ars+arth 아-러(r)-크 / 아-러(r)-므 / 아-러(r)-느 / 아-러(r)-프 / 아-러(r)-스 / 아-러(r)-드(th)
